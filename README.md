@@ -1,1 +1,3 @@
 # Thyroid_prediction 
+A thyroid detection model is a machine learning model that is designed to automatically detect thyroid diseases from medical images of the thyroid gland. Thyroid diseases are common and can have a significant impact on a person's health, so early detection and diagnosis are critical for effective treatment.
+The thyroid detection model uses a dataset of medical images and corresponding patient information to learn patterns and features that are indicative of thyroid diseases. The model can be trained using various machine learning algorithms such as XGBoost, Random Forest, Logistic Regression, or Support Vector Machines (SVM).
